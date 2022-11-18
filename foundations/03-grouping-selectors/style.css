@@ -1,0 +1,15 @@
+/* CLASS SELECTORS */
+.btnColorOne {
+  background-color: black;
+  color: white;
+}
+
+.btnColorTwo {
+  background-color: yellow;
+}
+
+.btnColorOne,
+.btnColorTwo {
+  font-size: 28px;
+  font-family: "Helvetica", "Times New Roman", sans-serif;
+}

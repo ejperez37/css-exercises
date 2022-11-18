@@ -1,0 +1,20 @@
+/* CLASS SELECTORS */
+.classOne {
+  background-color: pink;
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.classTwo {
+  font-size: 24px;
+}
+/* ID SELECTORS */
+#idOne {
+  color: blue;
+  font-size: 36px;
+}
+
+#idTwo {
+  background-color: green;
+  font-size: 24px;
+  font-weight: bold;
+}
